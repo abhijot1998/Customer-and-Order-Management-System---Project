@@ -1,0 +1,12 @@
+pyinstaller==5.1
+pyinstaller-hooks-contrib==2022.5
+pytz==2020.1
+pywin32-ctypes==0.2.0
+six==1.15.0
+soupsieve==2.2.1
+sqlparse==0.3.1
+tk==0.1.0
+ttkbootstrap==1.5.1
+virtualenv==20.4.2
+virtualenvwrapper-win==1.2.6
+XlsxWriter==3.0.3
